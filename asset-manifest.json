@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trade_site/static/css/main.a8fbaa6b.css",
+    "main.js": "/Trade_site/static/js/main.d314baa5.js",
+    "index.html": "/Trade_site/index.html",
+    "main.a8fbaa6b.css.map": "/Trade_site/static/css/main.a8fbaa6b.css.map",
+    "main.d314baa5.js.map": "/Trade_site/static/js/main.d314baa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8fbaa6b.css",
+    "static/js/main.d314baa5.js"
+  ]
+}
